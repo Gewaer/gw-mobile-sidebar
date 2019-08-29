@@ -1,0 +1,37 @@
+{
+  "name": "@gewaer/gw-mobile-sidebar",
+  "version": "0.0.1",
+  "description": "A React Native base sidebar component for the Gewaer platform.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "gewaer"
+  ],
+  "dependencies": {
+    "native-base": "^2.13.5"
+  },
+  "peerDependencies": {
+    "react": "16.8.6",
+    "react-native": "0.60.5"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.57.60",
+    "@types/react-test-renderer": "^16.8.1",
+    "@babel/core": "7.5.5",
+    "@babel/runtime": "7.5.5",
+    "babel-jest": "24.9.0",
+    "jest": "24.9.0",
+    "react-test-renderer": "16.8.6",
+    "react-native-typescript-transformer": "^1.2.12",
+    "typescript": "^3.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gewaer/gw-mobile-sidebar"
+  },
+  "author": "McTekk",
+  "license": "MIT"
+}
