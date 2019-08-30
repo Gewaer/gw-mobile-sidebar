@@ -24,8 +24,7 @@ const styles = StyleSheet.create({
   },
   listIcon: {
     width: 18,
-    height: 18,
-    color: "white"
+    height: 18
   },
   textIcon: {
     color: "white",

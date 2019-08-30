@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import { View, FlatList } from "react-native";
-import StyleSheet from './stylesheet';
+import StyleSheet from "./stylesheet";
 import { IProps, IResource } from "./types";
 
 import Header from "./components/header"
@@ -12,9 +12,7 @@ export default class GwMobileSidebar extends Component<IProps> {
       {
         id: "0",
         name: "Dashboard",
-        slug: "dashboard",
-        icon:
-          "https://www.freeiconspng.com/uploads/letter-c-icon-png-32.png"
+        slug: "dashboard"
       },
       {
         id: "1",
